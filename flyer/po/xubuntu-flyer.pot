@@ -1,0 +1,280 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2016-04-07 23:17+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:136(format) svg/xubuntu_flyer_A4_page_1_new.svg:160(format)
+msgid "image/svg+xml"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:210(flowPara)
+#, no-wrap
+msgid "What can I do with Xubuntu?"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:214(flowPara)
+#, no-wrap
+msgid "Xubuntu comes preinstalled with applications for the most common tasks performed by a desktop system."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:218(flowPara)
+#, no-wrap
+msgid "The applications and settings shipped by default are carefully selected, resulting in a seamless and stable system. Some of the default applications include:"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:222(flowPara)
+#, no-wrap
+msgid "Firefox® for web browsing, Thunderbird® for email and Pidgin for instant messaging."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:226(flowPara)
+#, no-wrap
+msgid "LibreOffice Writer for word processing and  LibreOffice Calc for spreadsheets."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:230(flowPara)
+#, no-wrap
+msgid "Customizability is one of the strengths of Xubuntu. In addition to the deciding which applications to use, you can easily control many more aspects of the operating system and make it look and work as you like by using the Settings Manager shipped with Xubuntu. This flexibility also allows users to customize what services are loaded on startup and more so your session can be crafted to meet your requirements and make the most out of your hardware."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:234(flowPara)
+#, no-wrap
+msgid "Finally, Xubuntu partners with a project to develop and maintain a clean, elegant theme that evolves with each release to give users a fresh, modern look that they have come to expect from today’s operating systems."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:252(flowPara)
+#, no-wrap
+msgid "In the Ubuntu ecosystem"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:256(flowPara)
+#, no-wrap
+msgid "Xubuntu is an officially recognized flavor of Ubuntu, featuring the Xfce Desktop Environment instead of Unity, and with a different selection of default applications and configuration. Xubuntu benefits from the broad hardware support in Ubuntu – most devices should “just work” when plugging them in."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:260(flowPara)
+#, no-wrap
+msgid "The Xubuntu desktop covers both ends of the usability spectrum: the default settings are carefully selected to produce unified and simple experience for the novice while allowing a full range of customizations for the advanced user."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:264(flowPara)
+#, no-wrap
+msgid "What is Xfce?"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:268(flowPara)
+#, no-wrap
+msgid "Xfce stands for “XForms Common Environment” and been polished by seventeen years of development. Xfce uses the Xfwm window manager, and has spawned several of its own projects, including: Xfce terminal (terminal emulator), Xfburn (CD and DVD burning program), Orage (calendar), Parole (media player) and Thunar (file manager)."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:274(flowSpan)
+#, no-wrap
+msgid "xfce.org"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:272(flowPara)
+#, no-wrap
+msgid "You can learn more about Xfce and their projects on the Xfce website at <placeholder-1/>."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:288(flowPara)
+#, no-wrap
+msgid "Lightweight and fast!"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:290(flowPara)
+#, no-wrap
+msgid "The Xfce mascot is a mouse, which also inspired the Xubuntu logo."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:429(flowPara)
+#, no-wrap
+msgid "Software in Xubuntu"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:433(flowPara)
+#, no-wrap
+msgid "Like Ubuntu, Xubuntu uses the Software Center to search for and install new software, such as new games, productivity tools, themes, fonts and other accessories to customize your experience. Software updates are automatically handled by the Software Updater."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:437(flowPara)
+#, no-wrap
+msgid "Programs from other desktop environments can be used with Xubuntu, it is designed to be flexible, and to allow the user choices. However, bringing in programs from GNOME or KDE introduces dependencies, which can slow down the Xubuntu experience, which has become known for being stable and speedy."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:441(flowPara)
+#, no-wrap
+msgid "While a lot of software is available from the Software Center, sometimes you might want to venture outside the usual. In this case, you can add more software sources, called repositories. Some software also offers downloadable “.deb” files for Ubuntu on their websites, these can almost always be used for Xubuntu too!"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:453(flowPara)
+#, no-wrap
+msgid "What does the name Ubuntu mean?"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:455(flowPara)
+#, no-wrap
+msgid "Ubuntu is an african term that can be roughly translated to \"humanity towards others\"."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:468(flowPara)
+#, no-wrap
+msgid "Ubuntu and Debian"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_2_new.svg:470(flowPara)
+#, no-wrap
+msgid "Ubuntu is based on Debian, a free operating system started in 1993. Ubuntu was first released in 2004, followed by a first Xubuntu release in 2006."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:234(flowPara)
+#, no-wrap
+msgid "Help &amp; Support"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:240(flowSpan)
+#, no-wrap
+msgid "xubuntu.org/irc"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:238(flowPara)
+#, no-wrap
+msgid "Possibly the easiest way to get help with Xubuntu is to join our support Internet Relay Chat (IRC) channel, #xubuntu on the Freenode IRC network. To do this, navigate to <placeholder-1/> to join the channel via a web interface or use your favorite IRC client."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:246(flowSpan)
+#, no-wrap
+msgid "docs.xubuntu.org"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:244(flowPara)
+#, no-wrap
+msgid "Official documentation is shipped with each release of Xubuntu. Find it by navigating the main menu and selecting Help. In addition, the documentation is available online at <placeholder-1/>."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:252(flowSpan)
+#, no-wrap
+msgid "xubuntu.org/help"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:250(flowPara)
+#, no-wrap
+msgid "Furthermore, we have many more support methods available, including a mailing list and a Frequently Asked Questions section on our website. For the complete list of support methods, navigate to <placeholder-1/>."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:256(flowPara)
+#, no-wrap
+msgid "Contribute to Xubuntu"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:262(flowSpan)
+#, no-wrap
+msgid "xubuntu.org/contribute"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:260(flowPara)
+#, no-wrap
+msgid "Xubuntu is always looking for new developers, artists, technical writers, reviewers and more to join the community! Learn more about the what you can do and how you can do it at  <placeholder-1/>."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:323(flowSpan)
+#, no-wrap
+msgid "By the community, for the community"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:321(flowPara)
+#, no-wrap
+msgid "<placeholder-1/> Xubuntu is a completely volunteer-driven project that depends upon talents from people such as yourself to contribute. No one is paid to work directly on Xubuntu."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:336(flowPara)
+#, no-wrap
+msgid "Local communities"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:340(flowPara)
+#, no-wrap
+msgid "If you want to learn more about Xubuntu, but would rather do it in your own language, don't worry! There are many local communities around the world who organize all kind of events to spread the word and help other people. You can even contribute back to Ubuntu via your local community."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:346(flowSpan)
+#, no-wrap
+msgid "loco.ubuntu.com"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:344(flowPara)
+#, no-wrap
+msgid "To find your local community, go to <placeholder-1/>."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:490(flowPara)
+#, no-wrap
+msgid "An easy to use,"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:492(flowPara)
+#, no-wrap
+msgid "elegant,"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:494(flowPara)
+#, no-wrap
+msgid "customizable"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:496(flowPara)
+#, no-wrap
+msgid "and lightweight"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:498(flowPara)
+#, no-wrap
+msgid "operating system."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:511(flowPara)
+#, no-wrap
+msgid "Read on to find out why"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:513(flowPara)
+#, no-wrap
+msgid "Xubuntu may be the perfect"
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:515(flowPara)
+#, no-wrap
+msgid "operating system for you."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:528(flowPara)
+#, no-wrap
+msgid "All content is licensed by CC-BY-SA unless otherwise specified. "
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:532(flowPara)
+#, no-wrap
+msgid "Flyer content © 2013–2015 Elizabeth Krumbach Joseph, Pasi Lallinaho and Rich Dennis. Community photo © 2012 Sean Sosik-Hamor. All logos are the property of their respective owners. The Xfce mouse is released under the LGPL license."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:538(flowSpan)
+#, no-wrap
+msgid "xubuntu-devel@lists.ubuntu."
+msgstr ""
+
+#: svg/xubuntu_flyer_A4_page_1_new.svg:536(flowPara)
+#, no-wrap
+msgid "Any questions, comments or feedback may be mailed to <placeholder-1/>com."
+msgstr ""
+
+#. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2
+#: svg/xubuntu_flyer_A4_page_1_new.svg:0(None)
+msgid "translator-credits"
+msgstr ""
+

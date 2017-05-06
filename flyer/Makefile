@@ -18,6 +18,10 @@ pdf-web:
 	pdftk build/*USletter*_web.pdf cat output build/flyer_USletter_web.pdf
 	rm build/xubuntu*
 
+pot:
+	mkdir -p po
+	xml2po -o po/xubuntu-flyer.pot svg/*A4*new*
+
 clean:
 	rm -rf build
 

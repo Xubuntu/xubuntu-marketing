@@ -1,0 +1,40 @@
+SELECTING THE CORRECT TEMPLATE
+------------------------------
+
+The files represent the two most common resolution ratios – 4:3 and 16:9 – pick
+the one that matches the resolution ratio of the projecting machine.
+
+
+ADDING FOOTER INFORMATION
+-------------------------
+
+The footer is half-automated; you only need to insert your information once to
+show them on all slides.
+
+	To do this, go to Insert -> Header and Footer...
+
+
+CUSTOM BACKGROUNDS FOR SLIDES
+-----------------------------
+
+The regular page template footer has a normally invisible white background;
+this allows you to use custom backgrounds for slides without extra work.
+
+    To do this, go to Slide -> Set Background Image...
+
+The image is autofitted on the background, so if the source isn't in the same
+ratio as the slideshow, you will have to manually adjust the appearance.
+
+    To do this, go to Slide -> Slide Properties...
+
+In this dialog, uncheck AutoFit, and adjust the Size parameters to get the image
+show in the desired ratio. For best results, use the Relative sizes with the
+Width set at 100%.
+
+
+REMOVE A BACKGROUND FROM A SLIDE
+--------------------------------
+
+Sometimes you might want to remove the mouse background from a slide.
+
+    To do this, uncheck Slide -> Display Master Background
