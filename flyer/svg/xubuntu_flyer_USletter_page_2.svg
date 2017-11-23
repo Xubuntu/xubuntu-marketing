@@ -11,15 +11,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="990"
-   height="765"
+   width="1056"
+   height="816"
    id="svg2985"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="xubuntu_flyer_USletter_page_2.svg"
    inkscape:export-filename="/home/knome/xubuntu_flyer_draft.png"
    inkscape:export-xdpi="90.042519"
-   inkscape:export-ydpi="90.042519">
+   inkscape:export-ydpi="90.042519"
+   viewBox="0 0 990 765">
   <defs
      id="defs2987" />
   <sodipodi:namedview
@@ -30,7 +31,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.43028864"
-     inkscape:cx="352.47238"
+     inkscape:cx="-17.04702"
      inkscape:cy="-172.13572"
      inkscape:current-layer="layer1"
      id="namedview2989"
@@ -40,7 +41,7 @@
      units="mm"
      inkscape:window-width="1367"
      inkscape:window-height="1139"
-     inkscape:window-x="1950"
+     inkscape:window-x="551"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:snap-global="true"
@@ -58,12 +59,12 @@
        enabled="true"
        snapvisiblegridlinesonly="true"
        units="mm"
-       spacingx="99mm"
-       spacingy="210mm"
+       spacingx="350.7874"
+       spacingy="744.09449"
        empcolor="#ff0000"
        empopacity="0.47058824"
-       originx="9.9993952mm"
-       originy="230.58867mm" />
+       originx="35.430928"
+       originy="817.04647" />
     <inkscape:grid
        type="xygrid"
        id="grid2996"
@@ -75,10 +76,10 @@
        opacity="0.1254902"
        dotted="false"
        units="mm"
-       spacingx="277mm"
-       spacingy="190mm"
-       originx="19.999395mm"
-       originy="240.58867mm"
+       spacingx="981.49606"
+       spacingy="673.22835"
+       originx="70.863998"
+       originy="852.47954"
        empcolor="#ffa000"
        empopacity="0.47058824" />
     <inkscape:grid
@@ -89,10 +90,10 @@
        enabled="true"
        snapvisiblegridlinesonly="true"
        units="mm"
-       originx="19.999395mm"
-       spacingx="3.55mm"
-       spacingy="3.8mm"
-       originy="240.58867mm"
+       originx="70.863998"
+       spacingx="12.57874"
+       spacingy="13.464567"
+       originy="852.47954"
        dotted="true"
        color="#00d5ff"
        opacity="0.1254902"
@@ -117,7 +118,7 @@
      inkscape:label="USl 1/3s"
      style="display:none">
     <rect
-       style="fill:#e6e6e6;fill-opacity:1;stroke:none;display:inline"
+       style="display:inline;fill:#e6e6e6;fill-opacity:1;stroke:none"
        id="rect3192"
        width="329.99881"
        height="765"
@@ -129,14 +130,14 @@
        height="765"
        width="329.99881"
        id="rect3197"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:none;display:inline" />
+       style="display:inline;fill:#e6e6e6;fill-opacity:1;stroke:none" />
     <rect
        y="0"
        x="330.00244"
        height="765"
        width="329.99881"
        id="rect4535"
-       style="fill:#f9f9f9;fill-opacity:1;stroke:none;display:inline" />
+       style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -145,13 +146,13 @@
      style="display:none"
      transform="translate(35.430928,-796.14086)">
     <path
-       style="fill:#ffd5d5;fill-opacity:1;stroke:none;display:inline"
-       d="m 325.64453,1224.6723 0,235.7678 c 110.91824,0 127.6089,0 267.85273,0 1.5e-4,-58.3468 -3.4e-4,-177.4211 -6.4e-4,-235.7678 z"
+       style="display:inline;fill:#ffd5d5;fill-opacity:1;stroke:none"
+       d="m 325.64453,1224.6723 v 235.7678 c 110.91824,0 127.6089,0 267.85273,0 1.5e-4,-58.3468 -3.4e-4,-177.4211 -6.4e-4,-235.7678 z"
        id="rect4257"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <rect
-       style="fill:#ffd5d5;fill-opacity:1;stroke:none;display:inline"
+       style="display:inline;fill:#ffd5d5;fill-opacity:1;stroke:none"
        id="rect4245"
        width="267.85275"
        height="296.8862"
@@ -167,16 +168,16 @@
        height="648.20178"
        width="267.85275"
        id="rect3817"
-       style="fill:#ffd5d5;fill-opacity:1;stroke:none;display:inline" />
+       style="display:inline;fill:#ffd5d5;fill-opacity:1;stroke:none" />
     <path
-       style="fill:#ffd5d5;fill-opacity:1;stroke:none;display:inline"
-       d="m 655.64332,871.50623 0,56.93716 267.85276,0 0,-56.93716 z m 0,55.25067 0,79.5394 267.85276,0 0,-79.5394 z"
+       style="display:inline;fill:#ffd5d5;fill-opacity:1;stroke:none"
+       d="m 655.64332,871.50623 v 56.93716 h 267.85276 v -56.93716 z m 0,55.25067 v 79.5394 h 267.85276 v -79.5394 z"
        id="rect5623"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccc" />
     <path
        style="fill:#ffd5d5;fill-opacity:1;stroke:none"
-       d="m 325.64453,1479.1728 0,46.535 169.3125,0 c 3e-5,-12.6821 2e-5,-31.1085 0,-46.535 z"
+       d="m 325.64453,1479.1728 v 46.535 h 169.3125 c 3e-5,-12.6821 2e-5,-31.1085 0,-46.535 z"
        id="rect4033"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -184,12 +185,12 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path5428"
-       d="m 655.64332,1439.1728 0,86.535 205.3125,0 c 3e-5,-12.6821 2e-5,-71.1085 0,-86.535 z"
-       style="fill:#ffd5d5;fill-opacity:1;stroke:none;display:inline" />
+       d="m 655.64332,1439.1728 v 86.535 h 205.3125 c 3e-5,-12.6821 2e-5,-71.1085 0,-86.535 z"
+       style="display:inline;fill:#ffd5d5;fill-opacity:1;stroke:none" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3738"
-       style="font-size:14px;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;line-height:0.01%;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        transform="translate(-70.862319,781.17969)"><flowRegion
          id="flowRegion3740"><rect
            id="rect3742"
@@ -197,18 +198,19 @@
            height="232"
            x="1098"
            y="344.47949" /></flowRegion><flowPara
-         id="flowPara3748" /></flowRoot>    <path
+         id="flowPara3748"
+         style="font-size:14px;line-height:1.25"> </flowPara></flowRoot>    <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path4089"
-       d="m 655.85303,1021.5698 0,63.7795 194.4044,0 c 0,-17.3816 0,-42.6364 0,-63.7795 z"
-       style="fill:#ffd5d5;fill-opacity:1;stroke:none;display:inline" />
+       d="m 655.85303,1021.5698 v 63.7795 h 194.4044 c 0,-17.3816 0,-42.6364 0,-63.7795 z"
+       style="display:inline;fill:#ffd5d5;fill-opacity:1;stroke:none" />
     <path
        sodipodi:nodetypes="cccccccccc"
        inkscape:connector-curvature="0"
        id="path3788"
-       d="m 655.64332,1105.3493 0,142.8382 267.85276,0 0,-142.8382 z m 0,138.6074 0,199.5402 267.85276,0 0,-199.5402 z"
-       style="fill:#ffd5d5;fill-opacity:1;stroke:none;display:inline" />
+       d="m 655.64332,1105.3493 v 142.8382 h 267.85276 v -142.8382 z m 0,138.6074 v 199.5402 h 267.85276 v -199.5402 z"
+       style="display:inline;fill:#ffd5d5;fill-opacity:1;stroke:none" />
   </g>
   <g
      inkscape:label="CONTENT"
@@ -222,7 +224,7 @@
        transform="translate(1090.5357,-395.80208)" />
     <flowRoot
        xml:space="preserve"
-       style="color:#000000;font-size:14px;line-height:125%;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       style="color:#000000;line-height:0.01%;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        id="flowRoot3819"
        transform="translate(0,-9.3367473)"><flowRegion
          id="flowRegion3821"><use
@@ -236,11 +238,11 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#333333"
          id="flowPara3388">Xubuntu comes preinstalled with applications for the most common tasks performed by a desktop system.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#333333"
-         id="flowPara3396" /><flowPara
+         id="flowPara3396"> </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#333333"
          id="flowPara3398">The applications and settings shipped by default are carefully selected, resulting in a seamless and stable system. Some of the default applications include:</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#333333"
-         id="flowPara3827" /><flowPara
+         id="flowPara3827"> </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#333333"
          id="flowPara3371"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
@@ -250,26 +252,26 @@
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
    id="flowSpan3843">Pidgin </flowSpan>for instant messaging.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#333333"
-         id="flowPara3400"><flowSpan
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="flowSpan3373" /></flowPara><flowPara
+         id="flowPara3400"> <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="flowSpan3373" /></flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#333333"
          id="flowPara3405"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
    id="flowSpan3407">LibreOffice Writer </flowSpan>for word processing and <flowSpan
-   style="font-weight:600;-inkscape-font-specification:'Open Sans Semi-Bold';font-family:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal"
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'"
    id="flowSpan3463">LibreOffice Calc</flowSpan> for spreadsheets. </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#333333"
-         id="flowPara3635" /><flowPara
+         id="flowPara3635"> </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#333333"
          id="flowPara3637">Customizability is one of the strengths of Xubuntu. In addition to the deciding which applications to use, you can easily control many more aspects of the operating system and make it look and work as you like by using the <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
    id="flowSpan3639">Settings Manager</flowSpan> shipped with Xubuntu. This flexibility also allows users to customize what services are loaded on startup and more so your session can be crafted to meet your requirements and make the most out of your hardware.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#333333"
-         id="flowPara3321" /><flowPara
+         id="flowPara3321"> </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#333333"
          id="flowPara3323">Finally, Xubuntu partners with a project to develop and maintain a clean, elegant theme that evolves with each release to give users a fresh, modern look that they have come to expect from today’s operating systems.</flowPara></flowRoot>    <flowRoot
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0044aa;fill-opacity:1;stroke:none;font-family:Fjalla One;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Fjalla One';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#0044aa;fill-opacity:1;stroke:none"
        id="flowRoot5680"
        xml:space="preserve"
        transform="translate(-40.029775,786.04684)"><flowRegion
@@ -280,9 +282,9 @@
            height="98.495529"
            width="288.80728"
            id="rect5684" /></flowRegion><flowPara
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:170.00000477%;text-anchor:start;fill:#0044aa;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#0044aa;fill-opacity:1"
          id="flowPara5692">What can I do with Xubuntu?</flowPara></flowRoot>    <flowRoot
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0044aa;fill-opacity:1;stroke:none;font-family:Fjalla One;-inkscape-font-specification:Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Fjalla One';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#0044aa;fill-opacity:1;stroke:none"
        id="flowRoot3932"
        xml:space="preserve"
        transform="translate(288.78418,786.04684)"><flowRegion
@@ -293,10 +295,10 @@
            height="98.495529"
            width="288.80728"
            id="rect3936" /></flowRegion><flowPara
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:170.00000477%;text-anchor:start;fill:#0044aa;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#0044aa;fill-opacity:1"
          id="flowPara3944">In the Ubuntu ecosystem</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-size:14px;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;line-height:0.01%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        id="flowRoot4259"
        transform="translate(-0.65795898,-10.159401)"><flowRegion
          id="flowRegion4261"><use
@@ -308,10 +310,10 @@
            height="744.09448"
            transform="translate(0.65795898,4.81379)" /></flowRegion><flowPara
          id="flowPara4265"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Open Sans;-inkscape-font-specification:Open Sans">Xfce stands for “XForms Common Environment” and been polished by seventeen years of development. Xfce uses the Xfwm window manager, and has spawned several of its own projects, including: Xfce terminal (terminal emulator), Xfburn (CD and DVD burning program), Orage (calendar), Parole (media player) and Thunar (file manager).</flowPara><flowPara
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara4276" /><flowPara
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">Xfce stands for “XForms Common Environment” and been polished by seventeen years of development. Xfce uses the Xfwm window manager, and has spawned several of its own projects, including: Xfce terminal (terminal emulator), Xfburn (CD and DVD burning program), Orage (calendar), Parole (media player) and Thunar (file manager).</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="flowPara4276"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
          id="flowPara4031">You can learn more about Xfce and their projects on the Xfce website at <flowSpan
    style="fill:#0044aa"
    id="flowSpan4019">xfce.org</flowSpan>.</flowPara></flowRoot>    <g
@@ -336,13 +338,13 @@
          inkscape:connector-curvature="0" />
       <path
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         d="m 37.625,384.15853 c -3.443355,1.88538 27.552632,22.09367 85.46875,45.9375 57.91987,23.84382 137.92965,84.27698 131.65625,94.03125 -18.81237,26.49691 -29.90817,58.18792 -22.25,112.46875 1.38111,9.55483 -28.31634,26.14558 -26.15625,40.5625 1.80637,10.9698 33.19295,-10.87512 36.625,-6.5625 2.0999,7.74098 -16.79186,46.91895 -9.15625,49.71875 5.58462,1.6596 54.67873,-46.58659 57.53125,-45.78125 80.96219,24.47603 186.3041,5.99395 188.34375,5.21875 -0.19196,-0.42524 75.80178,35.72642 82.40625,31.40625 16.65983,-18.04093 -31.57326,-43.46801 -23.53125,-53.625 3.52614,-5.31744 58.74796,19.9643 61.46875,13.0625 3.95898,-11.94824 -25.64187,-37.03634 -30.09375,-44.46875 -3.87242,-6.85285 -4.71239,-17.9194 5.21875,-24.84375 9.9349,-6.92434 111.50996,-45.77552 107.25,-75.84375 -7.36468,-54.63458 -128.82052,-58.18257 -130.78125,-62.78125 -0.92191,-2.1601 5.3446,-78.12685 -30.09375,-64.09375 -21.81925,8.12105 -4.00496,56.52301 -2.59375,62.78125 1.30204,5.7615 -9.70773,5.15389 -11.78125,2.625 -4.6287,-5.65237 -19.9116,-56.10291 -37.9375,-47.09375 -25.28137,13.939 -1.48853,57.43256 -6.53125,58.84375 -9.36668,5.23466 -8.83606,18.02087 -16.34375,28.4375 -12.38092,17.74363 -105.021,-8.31111 -134.96875,-10.125 -21.92462,-1.29455 -42.8956,16.69428 -44.875,14.40625 -26.69638,-26.73399 -81.9285,-73.2869 -142.4375,-88.75 C 90.129469,410.48114 39.649614,383.81985 37.625,384.15853 z m 529.46875,102.21875 c 5.78951,-10e-6 10.46875,5.34579 10.46875,11.9375 2e-5,6.59167 -4.67924,11.9375 -10.46875,11.9375 -5.78954,0 -10.5,-5.34583 -10.5,-11.9375 10e-6,-6.59171 4.71046,-11.9375 10.5,-11.9375 z m -23.53125,7.25 c 4.45553,19.23387 11.41036,25.36339 32.28125,24.75 -26.56462,24.35939 -42.70923,-17.37781 -32.28125,-24.75 z M 601,543.90853 c 1.08692,0.0412 1.92367,0.28894 2.46875,0.8125 10.46545,3.79336 -44.97502,23.75615 -45.34375,20.9375 -0.57648,-2.01216 32.36808,-22.14821 42.875,-21.75 z m 5.625,12.78125 c 0.57282,-0.0444 1.07711,0.032 1.5,0.25 9.87845,9.8145 -31.27532,31.57642 -30.8125,30.8125 -3.31635,-2.00393 20.72016,-30.39586 29.3125,-31.0625 z"
+         d="m 37.625,384.15853 c -3.443355,1.88538 27.552632,22.09367 85.46875,45.9375 57.91987,23.84382 137.92965,84.27698 131.65625,94.03125 -18.81237,26.49691 -29.90817,58.18792 -22.25,112.46875 1.38111,9.55483 -28.31634,26.14558 -26.15625,40.5625 1.80637,10.9698 33.19295,-10.87512 36.625,-6.5625 2.0999,7.74098 -16.79186,46.91895 -9.15625,49.71875 5.58462,1.6596 54.67873,-46.58659 57.53125,-45.78125 80.96219,24.47603 186.3041,5.99395 188.34375,5.21875 -0.19196,-0.42524 75.80178,35.72642 82.40625,31.40625 16.65983,-18.04093 -31.57326,-43.46801 -23.53125,-53.625 3.52614,-5.31744 58.74796,19.9643 61.46875,13.0625 3.95898,-11.94824 -25.64187,-37.03634 -30.09375,-44.46875 -3.87242,-6.85285 -4.71239,-17.9194 5.21875,-24.84375 9.9349,-6.92434 111.50996,-45.77552 107.25,-75.84375 -7.36468,-54.63458 -128.82052,-58.18257 -130.78125,-62.78125 -0.92191,-2.1601 5.3446,-78.12685 -30.09375,-64.09375 -21.81925,8.12105 -4.00496,56.52301 -2.59375,62.78125 1.30204,5.7615 -9.70773,5.15389 -11.78125,2.625 -4.6287,-5.65237 -19.9116,-56.10291 -37.9375,-47.09375 -25.28137,13.939 -1.48853,57.43256 -6.53125,58.84375 -9.36668,5.23466 -8.83606,18.02087 -16.34375,28.4375 -12.38092,17.74363 -105.021,-8.31111 -134.96875,-10.125 -21.92462,-1.29455 -42.8956,16.69428 -44.875,14.40625 -26.69638,-26.73399 -81.9285,-73.2869 -142.4375,-88.75 C 90.129469,410.48114 39.649614,383.81985 37.625,384.15853 Z m 529.46875,102.21875 c 5.78951,-10e-6 10.46875,5.34579 10.46875,11.9375 2e-5,6.59167 -4.67924,11.9375 -10.46875,11.9375 -5.78954,0 -10.5,-5.34583 -10.5,-11.9375 10e-6,-6.59171 4.71046,-11.9375 10.5,-11.9375 z m -23.53125,7.25 c 4.45553,19.23387 11.41036,25.36339 32.28125,24.75 -26.56462,24.35939 -42.70923,-17.37781 -32.28125,-24.75 z M 601,543.90853 c 1.08692,0.0412 1.92367,0.28894 2.46875,0.8125 10.46545,3.79336 -44.97502,23.75615 -45.34375,20.9375 -0.57648,-2.01216 32.36808,-22.14821 42.875,-21.75 z m 5.625,12.78125 c 0.57282,-0.0444 1.07711,0.032 1.5,0.25 9.87845,9.8145 -31.27532,31.57642 -30.8125,30.8125 -3.31635,-2.00393 20.72016,-30.39586 29.3125,-31.0625 z"
          id="path14"
          inkscape:connector-curvature="0" />
     </g>
     <flowRoot
        xml:space="preserve"
-       style="font-size:14px;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;line-height:0.01%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        id="flowRoot4247"
        transform="translate(-0.65795898,-8.0628597)"><flowRegion
          id="flowRegion4249"><use
@@ -353,14 +355,14 @@
            width="1052.3622"
            height="744.09448"
            transform="translate(0.65795898,2.707398)" /></flowRegion><flowPara
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
          id="flowPara3311">Xubuntu is an officially recognized flavor of Ubuntu, featuring the Xfce Desktop Environment instead of Unity, and with a different selection of default applications and configuration. Xubuntu benefits from the broad hardware support in Ubuntu – most devices should &quot;just work&quot; when plugging them in.</flowPara><flowPara
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara3940" /><flowPara
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="flowPara3940"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
          id="flowPara3336">The Xubuntu desktop covers both ends of the usability spectrum: the default settings are carefully selected to produce unified and simple experience for the novice while allowing a full range of customizations for the advanced user.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-size:14px;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;line-height:0.01%;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        id="flowRoot4055"
        transform="translate(0,4.7315993)"><flowRegion
          id="flowRegion4057"><use
@@ -372,17 +374,17 @@
            height="744.09448"
            transform="translate(0,-2.3566017)" /></flowRegion><flowPara
          id="flowPara4061"
-         style="font-size:10px;font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#666666;font-family:Open Sans;-inkscape-font-specification:Open Sans Semi-Bold Italic">Lightweight and fast!</flowPara><flowPara
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666">Lightweight and fast!</flowPara><flowPara
          style="font-size:11px;line-height:150%;fill:#666666"
          id="flowPara4069"><flowSpan
-           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;text-anchor:start;fill:#666666;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#666666"
            id="flowSpan4071">The Xfce mascot is a mouse, which also inspired the Xubuntu logo</flowSpan></flowPara></flowRoot>    <g
        style="display:inline"
        id="g4231"
        transform="matrix(0.22500045,0,0,0.22500045,859.71633,1017.18)">
       <path
          id="path4223"
-         d="m 283.465,141.734 c 0,78.273 -63.457,141.73 -141.734,141.73 C 63.454,283.464 0,220.008 0,141.734 0,63.455 63.453,0 141.73,0 220.007,0 283.465,63.455 283.465,141.734 z"
+         d="m 283.465,141.734 c 0,78.273 -63.457,141.73 -141.734,141.73 C 63.454,283.464 0,220.008 0,141.734 0,63.455 63.453,0 141.73,0 220.007,0 283.465,63.455 283.465,141.734 Z"
          inkscape:connector-curvature="0"
          style="fill:#dd4814" />
       <path
@@ -394,21 +396,22 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4808"
-       style="font-size:14px;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"><flowRegion
+       style="color:#000000;line-height:0.01%;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"><flowRegion
          id="flowRegion4810"><rect
            id="rect4812"
            width="319.61227"
            height="50.91169"
            x="656.19507"
            y="1193.8145" /></flowRegion><flowPara
-         id="flowPara4814" /></flowRoot>    <flowRoot
+         id="flowPara4814"
+         style="font-size:14px;line-height:1.25"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-size:14px;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;line-height:0.01%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        id="flowRoot5163"
        transform="translate(0,-4.5468867)"><flowRegion
          id="flowRegion5165" /><flowPara
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara5169" /></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowPara5169"> </flowPara></flowRoot>    <g
        style="overflow:visible"
        id="g5412"
        transform="matrix(0.58810618,0,0,0.58810618,872.30556,1461.9282)">
@@ -496,7 +499,7 @@
     </g>
     <flowRoot
        xml:space="preserve"
-       style="font-size:14px;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;line-height:0.01%;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        id="flowRoot5479"
        transform="translate(0,12.356599)"><flowRegion
          id="flowRegion5481"><use
@@ -506,16 +509,16 @@
            id="use5483"
            width="1125.312"
            height="1597.4795" /></flowRegion><flowPara
-         style="font-size:10px;font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#666666;font-family:Open Sans;-inkscape-font-specification:Open Sans Semi-Bold Italic"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666"
          id="flowPara5485">Based on Debian and Linux</flowPara><flowPara
          id="flowPara5487"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#666666;font-family:Open Sans;-inkscape-font-specification:Open Sans">Ubuntu is based on Debian, a free operating system started in 1993.</flowPara><flowPara
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#666666;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666">Ubuntu is based on Debian, a free operating system started in 1993.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666"
          id="flowPara5489">In addition to Debian, the Linux kernel is an important part of the operating system.</flowPara></flowRoot>    <flowRoot
        transform="translate(290.37427,1139.2129)"
        xml:space="preserve"
        id="flowRoot3664"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0044aa;fill-opacity:1;stroke:none;font-family:Fjalla One;-inkscape-font-specification:Sans"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Fjalla One';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#0044aa;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion3666"><rect
            id="rect3668"
            width="288.80728"
@@ -524,11 +527,11 @@
            y="35.189495"
            style="fill:#0044aa;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3670"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:170.00000477%;text-anchor:start;fill:#0044aa;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans">What is Xfce?</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#0044aa;fill-opacity:1">What is Xfce?</flowPara></flowRoot>    <flowRoot
        transform="translate(619.61793,786.14352)"
        xml:space="preserve"
        id="flowRoot3672"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0044aa;fill-opacity:1;stroke:none;font-family:Fjalla One;-inkscape-font-specification:Sans"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Fjalla One';-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#0044aa;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion3674"><rect
            id="rect3676"
            width="288.80728"
@@ -537,9 +540,9 @@
            y="35.189495"
            style="fill:#0044aa;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3678"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:170.00000477%;text-anchor:start;fill:#0044aa;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans">Software in Xubuntu</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:170.00000477%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#0044aa;fill-opacity:1">Software in Xubuntu</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-size:14px;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;line-height:0.01%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        id="flowRoot3684"
        transform="translate(0,-5.358171)"><flowRegion
          id="flowRegion3686"><use
@@ -550,13 +553,13 @@
            width="1125.312"
            height="1597.4795" /></flowRegion><flowPara
          id="flowPara3702"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Open Sans;-inkscape-font-specification:Open Sans">Like Ubuntu, Xubuntu uses the <flowSpan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">Like Ubuntu, Xubuntu uses the <flowSpan
    id="flowSpan3692"
-   style="font-size:13px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans Semi-Bold">Software Center</flowSpan> to search for and install new software, such as new games, productivity tools, themes, fonts and other accessories to customize your experience. Software updates are automatically handled by the <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Software Center</flowSpan> to search for and install new software, such as new games, productivity tools, themes, fonts and other accessories to customize your experience. Software updates are automatically handled by the <flowSpan
    id="flowSpan3694"
-   style="font-size:13px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans Semi-Bold">Software Updater</flowSpan>.</flowPara></flowRoot>    <flowRoot
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Software Updater</flowSpan>.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-size:14px;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;line-height:0.01%;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        id="flowRoot3778"
        transform="translate(0,-8.3555807)"><flowRegion
          id="flowRegion3780"><use
@@ -567,12 +570,12 @@
            width="1125.312"
            height="1597.4795"
            transform="translate(0,4.168061)" /></flowRegion><flowPara
-         style="font-size:10px;font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#666666;font-family:Open Sans;-inkscape-font-specification:Open Sans Semi-Bold Italic"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666"
          id="flowPara3784">What does the word Ubuntu mean?</flowPara><flowPara
          id="flowPara3786"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:150%;text-anchor:start;fill:#666666;font-family:Open Sans;-inkscape-font-specification:Open Sans">The word Ubuntu is an ancient African term that can be roughly translated to &quot;humanity towards others&quot;</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#666666">The word Ubuntu is an ancient African term that can be roughly translated to &quot;humanity towards others&quot;</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-size:14px;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;line-height:0.01%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        id="flowRoot3802"
        transform="translate(0,-10.696321)"><flowRegion
          id="flowRegion3804"><use
@@ -584,9 +587,9 @@
            height="1597.4795"
            transform="translate(0,5.352571)" /></flowRegion><flowPara
          id="flowPara3808"
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Open Sans;-inkscape-font-specification:Open Sans">Programs from other desktop environments can be used with Xubuntu, it is designed to be flexible, and to allow the user choices. However, bringing in programs from GNOME or KDE introduces dependencies, which can slow down the Xubuntu experience, which has become known for being stable and speedy.</flowPara><flowPara
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="flowPara3828" /><flowPara
-         style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">Programs from other desktop environments can be used with Xubuntu, it is designed to be flexible, and to allow the user choices. However, bringing in programs from GNOME or KDE introduces dependencies, which can slow down the Xubuntu experience, which has become known for being stable and speedy.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+         id="flowPara3828"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
          id="flowPara3826">While a lot of software is available from the Software Center, sometimes you might want to venture outside the usual. In this case, you can add more software sources, called repositories. Some software also offers downloadable “.deb” files for Ubuntu on their websites, these can almost always be used for Xubuntu too!</flowPara></flowRoot>  </g>
 </svg>
