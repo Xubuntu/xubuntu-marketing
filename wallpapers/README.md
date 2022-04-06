@@ -20,6 +20,7 @@
 | 13.10   | <img src="PNG/xubuntu-saucy.png" height="150" /> | Pasi Lallinaho |
 | 14.04   | <img src="PNG/xubuntu-trusty.png" height="150" /> | Pasi Lallinaho |
 | 14.10   | <img src="PNG/xubuntu-utopic.png" height="150" /> | Pasi Lallinaho |
+| Development | <img src="PNG/xubuntu-development.png" height="150" /> | Pasi Lallinaho |
 | 15.04   | <img src="PNG/xubuntu-vivid.png" height="150" /> | Pasi Lallinaho |
 | 15.10   | <img src="PNG/xubuntu-wily.png" height="150" /> | Pasi Lallinaho |
 | 16.04   | <img src="PNG/xubuntu-xenial.png" height="150" /> | Pasi Lallinaho |
@@ -35,6 +36,3 @@
 | 21.04   | <img src="PNG/xubuntu-hirsute.png" height="150" /> | Pasi Lallinaho |
 | 21.10   | <img src="PNG/xubuntu-impish.png" height="150" /> | Pasi Lallinaho |
 | 22.04   | <img src="PNG/xubuntu-jammy.png" height="150" /> | Pasi Lallinaho |
-
-## Development wallpaper
-<img src="PNG/xubuntu-development.png" height="150" />
