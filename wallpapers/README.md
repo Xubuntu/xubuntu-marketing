@@ -37,3 +37,4 @@
 | 21.10   | <img src="PNG/xubuntu-impish.png" height="150" /> | Pasi Lallinaho |
 | 22.04   | <img src="PNG/xubuntu-jammy.png" height="150" /> | Pasi Lallinaho |
 | 22.10   | <img src="PNG/xubuntu-kinetic.png" height="150" /> | Pasi Lallinaho |
+| 23.04   | <img src="PNG/xubuntu-lunar.png" height="150" /> | Pasi Lallinaho |
