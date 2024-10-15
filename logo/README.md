@@ -2,6 +2,8 @@
 
 Always use the original logos **unmodified** and with the colors listed below. The vector file formats (linked below) should be used whenever appropriate, especially when printing.
 
+Use common sense in leaving enough breathing room for the logo; eg. do not lay it too close to other graphical elements.
+
 ## Colors
 
 | Part               | Screen  | Print          |
