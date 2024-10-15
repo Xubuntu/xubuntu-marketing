@@ -1,6 +1,6 @@
 # Xubuntu Logos
 
-Always use the original logos **unmodified** and with the colors listed below.
+Always use the original logos **unmodified** and with the colors listed below. The vector file formats (linked below) should be used whenever appropriate, especially when printing.
 
 ## Colors
 
