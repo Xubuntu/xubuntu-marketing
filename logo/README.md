@@ -12,17 +12,17 @@ Always use the original logos **unmodified** and with the colors listed below.
 
 ## Logo
 
-[![](logo/png/logo/xubuntu_logo_black.png)](logo/logo_black.svg) <br />
-[With white text for dark backgrounds](logo/logo_white.svg)
+[![](png/logo/xubuntu_logo_black.png)](logo_black.svg) <br />
+[With white text for dark backgrounds](logo_white.svg)
 
 ### For small sizes
-![Xubuntu logo](logo/logo_black_small.svg)<br />
-[With white text for dark backgrounds](logo/logo_white_small.svg)
+![Xubuntu logo](logo_black_small.svg)<br />
+[With white text for dark backgrounds](logo_white_small.svg)
 
 ## Icon
 
-![Xubuntu icon](logo/icon.svg)
+![Xubuntu icon](icon.svg)
 
 ### For small sizes
-![Xubuntu icon small](logo/icon_small.svg)
+![Xubuntu icon small](icon_small.svg)
 	
