@@ -41,3 +41,4 @@
 | 23.10   | <img src="PNG/xubuntu-mantic.png" height="150" /> | Pasi Lallinaho |
 | 24.04   | <img src="PNG/xubuntu-noble.png" height="150" /> | Pasi Lallinaho |
 | 24.10   | <img src="PNG/xubuntu-oracular.png" height="150" /> | Pasi Lallinaho |
+| 25.04   | <img src="PNG/xubuntu-plucky.png" height="150" /> | Pasi Lallinaho |
